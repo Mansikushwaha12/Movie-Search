@@ -1,0 +1,19 @@
+.actorCircle{
+    max-width: 200px;
+    height: 200px;
+    overflow: hidden;
+    margin-top: 2rem;
+    margin: auto;
+    border-radius: 50%;
+
+}
+.actorCircle img{
+    width: 100%;
+    height: auto;
+}
+.actorCard img{
+width: 100%;
+height: auto;
+display: flex;
+margin: auto;
+}

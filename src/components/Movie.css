@@ -1,0 +1,11 @@
+.castHeading{
+    display: flex;
+    flex-wrap: wrap;
+    gap:2rem;
+
+}
+.castName{
+    display: flex;
+    flex-wrap: wrap;
+    gap:2rem;
+}
